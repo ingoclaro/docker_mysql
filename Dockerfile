@@ -1,5 +1,5 @@
 #ingoclaro/mysql
-FROM mysql:5.6
+FROM mysql:5.5
 
 ENV MYSQL_DATA_DIR /var/lib/mysql
 
